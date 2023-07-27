@@ -5,7 +5,7 @@ Repositório para armazenar dados e informações para o trabalho desenvolvido p
 
 * [Texto científico](https://github.com/GustavoAkashi/governinho-aberto/blob/main/texto_cientifico.pdf)
 
-* Apresentacao
+* [Apresentação](https://github.com/GustavoAkashi/governinho-aberto/blob/main/apresentacao.pptx)
 
 ## Contexto
 Pesquisa científica realizada por alunos de Sistemas de Informação para a matéria de Governo Aberto oferecida pela EACH-USP no ano de 2023 para analisar a abertura dos dados de saúde mental no município de São Paulo entre os anos de 2019 a 2022.
